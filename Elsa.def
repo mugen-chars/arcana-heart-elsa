@@ -1,0 +1,41 @@
+;������������������������������������������������������������
+; �G���U�E���E�R���e�B
+;������������������������������������������������������������
+
+;--| ��{��� |---------------------------------------------------------------
+
+[Info]
+Name         = "Elsa"       ;�L�����N�^�[�̖��O�i�K�v�ȍ��ڂȂ̂ŏȗ��s�j
+DisplayName  = "Elsa"       ;M.U.G.E.N�Ŏ��ۂɕ\������閼�O�i�ȗ��\�j
+
+Author       = "barai"	       ;�L�����N�^�[�̍쐬�ҁi�K�v�ȍ��ڂȂ̂ŏȗ��s�j
+Pal.Defaults = 1	       ;�b�o�t�ŏo�Ă������̃J���[�p���b�g�̏���
+
+[Files]
+Cmd      = Elsa_La_Conti.cmd
+Cns      = Elsa_Cns.cns
+St       = Elsa_Common.cns
+St2      = Elsa_-2-3.st
+St3      = Elsa_helper.st
+St4      = Elsa_Attack.st
+St5      = Elsa_Skill.st
+St6      = Elsa_Spell.st
+st7      = Elsa_System.st
+
+stcommon = common1.cns			;MUGEN���ʃR����
+
+
+Sprite   = Elsa_La_Conti.sff      ;
+Anim     = Elsa_La_Conti.air      ;
+Sound    = Elsa_La_conti2.snd    
+
+
+;--| �J���[�p���b�g�t�@�C�� |-------------------------------------------------
+
+pal1     =  act/color1.act	;�����̐F�B
+pal2	 =  act/color2.act	;�ԐF�B
+pal3     =  act/color3.act	;
+pal4     =  act/color4.act	;
+pal5     =  act/color5.act	;
+;pal6     =  act/clarice.act	;�N�����[�`�F�̕��@�Ȃ񂩃_�T���B
+
